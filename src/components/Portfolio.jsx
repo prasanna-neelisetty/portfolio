@@ -20,7 +20,7 @@ const Portfolio = () => {
         {
             id: 3,
             src: reactParallax,
-            codeLink:'https://github.com/polisettypranavi/react-portfolio'
+            codeLink:'https://github.com/prasanna-neelisetty/portfolio'
         },
     ]
     return (
